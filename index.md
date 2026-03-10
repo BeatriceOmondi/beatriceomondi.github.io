@@ -157,6 +157,6 @@ your.email@example.com
 
 📧 **Email:** atienobeatrice657@gmail.com  
 
-💻 **GitHub:** https://github.com/yourusername  
+💻 **GitHub:** https://github.com/beatriceomondi  
 
 💼 **LinkedIn:** https://linkedin.com/in/yourprofile
