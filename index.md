@@ -136,13 +136,13 @@ I document my cybersecurity learning journey through educational content where I
 ## Let's Connect
 
 **GitHub**  
-https://github.com/yourusername
+https://github.com/beatriceomondi
 
 **LinkedIn**  
-https://linkedin.com/in/yourprofile
+www.linkedin.com/in/beatriceomondi-trice
 
 **Email**  
-your.email@example.com
+atienobeatrice657@gmail.com
 
 ---
 
@@ -159,4 +159,4 @@ your.email@example.com
 
 💻 **GitHub:** https://github.com/beatriceomondi  
 
-💼 **LinkedIn:** https://linkedin.com/in/yourprofile
+💼 **LinkedIn:** www.linkedin.com/in/beatriceomondi-trice
